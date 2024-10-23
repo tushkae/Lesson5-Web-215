@@ -1,0 +1,259 @@
+
+.header3{
+    margin: 0;
+    padding: 16px 0;
+    font-size: 24px;
+    font-weight: 600;
+    color: #3A3A3A;
+}
+.header1{
+    margin: 0;
+    font-size: 40px;
+    font-weight: 700;
+    color: #3A3A3A;
+}
+.header2{
+    font-size: 32px;
+    font-weight: 700;
+    color: #333333;
+}
+.header4{
+    display: inline-block; 
+    vertical-align: middle;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000000;
+}
+.header5{
+    display: inline-block; 
+    vertical-align: middle;
+    margin-left: 56px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #9F9F9F;
+}
+.header6{
+    text-align: left; 
+    font-size: 25px;
+    color: #242424;
+}
+.header7{
+    font-size: 36px;
+    font-weight: 600;
+    color: #242424;
+}
+.group1-content{
+    width: 644px;
+    margin: 0 auto;
+    color: #9F9F9F;
+    font-size: 16px;
+    font-weight: 400;
+}
+.contact-group2{
+    margin-top: 82px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.contact-item{
+    margin-bottom: 85px;
+    text-align: left;
+    margin-top: 56px;
+}
+.map{
+    width: 680px;
+    height: 374px;
+}
+.contact-value{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+    width: 212px;
+    margin: 0;
+    margin-top: 5px;
+    vertical-align: middle;
+
+}
+.readmore{
+    margin-top: 30px;
+}
+.contact-block{
+    margin-left: 82px;
+    margin-right: 130px;
+    display: inline-block;
+    vertical-align: top;
+}
+.contact-key{
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+    color: #000000;
+    vertical-align: top;
+    margin-right: 30px;
+}
+.group3-content{
+    font-size: 15px;
+    font-weight: 400;
+    color: #9F9F9F;
+}
+.header8{
+    font-size: 30px;
+    font-weight: 500;
+    color: #000000;
+}
+.contact-group3{
+    text-align: left;
+    margin: 88px 137px;
+}
+.light{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 500;
+    color: #898989;
+}
+.contact{
+    margin-top: 98px;
+    text-align: center;
+    vertical-align: top;
+}
+.lighter{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    color: #9F9F9F;
+}
+.medium{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 400;
+    color: #666666;
+}
+.heavy{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: #898989;
+}
+.navigation {
+    display: inline-block; 
+    vertical-align: middle;
+    margin-left: 69px;
+}
+.header-wraper { 
+    box-sizing: border-box;
+    padding: 30px 54px;
+}
+
+.logo { 
+    vertical-align: middle;
+}
+
+.navigation-item{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 75px;
+    font-family: Poppins;
+    color: #000000;
+}
+.banner-wrapper{
+    width: 100%;
+}
+.product-group{
+    margin-top: 50px;
+}
+.products{
+    text-align: center;
+    padding-top: 49px;
+}
+.product-item{
+    vertical-align: middle; 
+    display: inline-block;
+    margin: 0px 16px;
+}
+.product-item-footer{
+    background-color: #F4F5F7;
+    height: 145px;
+    padding: 0 16px;
+    text-align: left;
+
+}
+.range{
+    text-align: center;
+    margin-top: 74px;
+}
+.range-group{
+    margin-top: 50px;
+}
+.range-item{
+    vertical-align: middle; 
+    display: inline-block;
+    margin: 0px 10px;
+}
+.range-description{
+    margin-top: 133px;
+    text-align: left;
+    padding: 0 194px;
+}
+.description-box{
+    margin: 37px 0;
+}
+.range-image{
+    margin: 0 15px;
+    margin-bottom: 150px;
+}
+.summary{
+    background-color: #FAF3EA;
+    text-align: center;
+    margin-top: 0px;
+}
+.summary-item{
+    display: inline-block;
+    padding: 100px 74px;
+    text-align: left;
+}
+.footer-group{
+    display: inline-block;
+    margin: 0 72px;
+    vertical-align: top;
+}
+.footer-item{
+    display: block;
+    margin-bottom: 46px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+}
+.footer-item-small{
+    display: block;
+    margin-bottom: 46px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #9F9F9F;
+}
+.footer{
+    margin-top: 49px;
+    padding: 0 28px;
+}
+.footer-title{
+    margin-bottom: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #9F9F9F;
+}
+.footer-title-big{
+    margin-bottom: 50px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+}
+.contact{
+
+}
